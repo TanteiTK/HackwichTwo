@@ -9,6 +9,16 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
+    //declared and assigned a constant variable
+    let numberOne = 1
+    
+    //declared string variable and assigned it to "Hello Tyler"
+    var numberTwo: String = "Hello Tyler"
+    
+  
+    
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
