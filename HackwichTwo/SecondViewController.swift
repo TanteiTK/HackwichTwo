@@ -10,6 +10,7 @@ import UIKit
 
 class SecondViewController: UIViewController {
 
+    @IBOutlet var firstLabel: UILabel!
     override func viewDidLoad() {
         super.viewDidLoad()
 
