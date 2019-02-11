@@ -14,6 +14,8 @@ class SecondViewController: UIViewController {
     override func viewDidLoad() {
         super.viewDidLoad()
 
+        firstLabel.text = "I did it"
+        
         // Do any additional setup after loading the view.
     }
 
